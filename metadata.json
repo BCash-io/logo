@@ -2,4 +2,5 @@
   "name": "Baba Cash",
   "symbol": "BCash",
   "image": "https://raw.githubusercontent.com/BCash-io/logo/main/logo.png"
+  "seller_fee_basis_points": 500,
 }
